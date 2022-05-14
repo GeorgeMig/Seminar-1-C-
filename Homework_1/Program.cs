@@ -7,12 +7,12 @@ int max = 0;
 if (a > b)
 {
     max = a;
-    Console.Write (a);
+    Console.Write (max);
     Console.Write (" " + "- наибольшее число");
 }
 else 
 {
     max = b;
-    Console.Write(b);
+    Console.Write(max);
     Console.Write (" " + "- наибольшее число");
 }
