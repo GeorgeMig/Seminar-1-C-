@@ -8,3 +8,9 @@ while (i < b)
     Console.Write (i + " ");
 }
 Console.WriteLine (" " + "(ВЫПОЛНЕНО)");
+
+// иначе можно через "for"
+// например, for(int i = - n; i <= n; i ++)
+// {
+//  Console.Write (i + " "); 
+// }
