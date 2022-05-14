@@ -21,7 +21,6 @@ if (max > c)
 else 
 {
     max = c;
-
 }
 Console.Write (max);
 Console.Write (" " + "- наибольшее число");
